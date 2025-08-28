@@ -1,4 +1,4 @@
-package JavaBasics_01;
+package Assignment;
 
 import java.util.*;
 public class Add {

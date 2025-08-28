@@ -1,4 +1,4 @@
-package Assignment2;
+package Assignment.Assignment2.Level1;
 
 import java.util.Scanner;
 //Create a program to find the maximum number of handshakes among N number of students.

@@ -1,4 +1,4 @@
-package Assignment2;
+package Assignment.Assignment2.Level1;
 
 //The University is charging the student a fee of INR 125000 for the course. The University is willing to offer a discount of 10%. Write a program to find the discounted amount and discounted price the student will pay for the course.
 //Hint =>

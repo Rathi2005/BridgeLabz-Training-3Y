@@ -1,4 +1,4 @@
-package Assignment2;
+package Assignment.Assignment2.Level1;
 
 import java.util.Scanner;
 //Write a program the find the distance in yards and miles for the distance provided by user in feets

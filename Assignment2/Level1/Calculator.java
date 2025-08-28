@@ -1,4 +1,4 @@
-package Assignment2;
+package Assignment.Assignment2.Level1;
 
 import java.util.Scanner;
 //Write a program to create a basic calculator that can perform addition, subtraction, multiplication, and division. The program should ask for two numbers (floating point) and perform all the operations

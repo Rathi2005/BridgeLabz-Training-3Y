@@ -1,4 +1,4 @@
-package Assignment2;
+package Assignment.Assignment2.Level1;
 
 //Create a program to convert the distance of 10.8 kilometers to miles.
 //        Hint: 1 km = 1.6 miles
